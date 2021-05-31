@@ -1,0 +1,3 @@
+map_name: atari
+games:
+- {game_name: =ATARI=, file_name: =ATARI=1.3.xml}
